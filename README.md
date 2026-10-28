@@ -1,0 +1,2 @@
+# Monitores-PID-IoT-2026
+SLIDES DA AULA DE REPOSIÇÃO IoT 29/10  
